@@ -1,0 +1,13 @@
+
+{
+	"title"		:	"Instant physicgun color changer",
+	"type"		:	"effects",
+	"tags"		:	[ "roleplay", "realism" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
+
